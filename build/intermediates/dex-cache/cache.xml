@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/exploded-aar/org.lucasr.twowayview/twowayview/0.1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/org.lucasr.twowayview-twowayview-0.1.4_1d543087bde99ea35ef840d485c447ce5acbdf02.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c3ad4ef3b24f04e790cab77ad3f2ffe8043cad41.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5dc14b350bf2d96aba81b92d46e50fca0a09fc6a">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_25de049456e36f2bf031fdba0744574a63a3a594.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6_67b9ea0ede7f1682444dc9ce15064acdfb2a3a94.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_fcb9118c6033de73abbd6614d71c1c7ff5d96fd4.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f5b2d2564177bd9549092fe6debce8e96f688f46">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/instant-run_a24b3397ae04df08d5e4d641e74e516cb3c02110.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a48595c10607bd01827dab90200e06237080c187.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_368b54838dfc17ea8bd74b70f850a07df7047fa9.jar" />
+    </item>
+    <item
+        jar="/Users/macmini_desarrollo2/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/macmini_desarrollo2/Desktop/weatherApp/weatherApp_Android_Master/weatherAndroidApp/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2_b593e968a2132578e560d92b99884c1a8d220c90.jar" />
+    </item>
+
+</items>

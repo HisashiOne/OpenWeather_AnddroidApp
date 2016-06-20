@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/orange_box"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:id="@+id/linear_A">
+
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:text="444"
+        android:textSize="18sp"
+        android:id="@+id/text_1"
+        android:textColor="@android:color/white"
+        android:background="@color/hardOrange"
+        />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/iconWeather"/>
+
+    <TextView android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text=" 22.78 C"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:id="@+id/tempData"
+        android:textStyle="bold"/>
+
+
+
+</LinearLayout>
